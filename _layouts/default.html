@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != site.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.subtitle %}{{ page.subtitle | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta name="color-scheme" content="light dark">
+  <meta name="referrer" content="no-referrer">
+  <link rel="preload" href="{{ '/assets/fonts/source-serif-4-latin-400-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="{{ '/fiction/' | relative_url }}"{% if page.url == '/fiction/' or page.section == 'fiction' %} aria-current="page"{% endif %}>Fiction</a>
+        <a href="{{ '/essays/' | relative_url }}"{% if page.url == '/essays/' or page.section == 'essays' %} aria-current="page"{% endif %}>Essays</a>
+        <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+        <a class="substack" href="{{ site.substack_url }}">Substack&nbsp;↗</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p class="subscribe">New work arrives first on Substack. <a href="{{ site.substack_url }}">Read and subscribe there&nbsp;→</a></p>
+      <p class="fine">© {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </div>
+  </footer>
+</body>
+</html>

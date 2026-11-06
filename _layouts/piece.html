@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article class="piece wrap">
+  <header class="piece-head">
+    <p class="kicker"><a href="{{ '/' | append: page.section | append: '/' | relative_url }}">{% if page.section == 'fiction' %}Fiction{% else %}Essays{% endif %}</a></p>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="dek">{{ page.subtitle }}</p>{% endif %}
+    <p class="byline">By {{ site.title }} · <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%B %-d, %Y' }}</time></p>
+  </header>
+
+  <div class="prose">
+    {{ content }}
+  </div>
+
+  <footer class="piece-foot">
+    <p>Enjoyed this? <a href="{{ site.substack_url }}">Subscribe on Substack</a> to get the next one.</p>
+    <p><a href="{{ '/' | append: page.section | append: '/' | relative_url }}">← More {% if page.section == 'fiction' %}fiction{% else %}essays{% endif %}</a></p>
+  </footer>
+</article>
