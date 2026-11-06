@@ -1,0 +1,17 @@
+{% comment %}
+  Lists pieces newest first. Pass section="fiction" or section="essays",
+  or leave it out to list everything. Pass limit=N to cap the list.
+{% endcomment %}
+{% assign all = site.pieces | sort: 'date' | reverse %}
+{% if include.section %}{% assign all = all | where: 'section', include.section %}{% endif %}
+{% assign max = include.limit | default: 1000 %}
+<ol class="piece-list">
+{% for doc in all limit: max %}
+  <li>
+    {% if include.show_section %}<p class="kicker">{% if doc.section == 'fiction' %}Fiction{% else %}Essay{% endif %}</p>{% endif %}
+    <h3><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a></h3>
+    <p class="meta"><time datetime="{{ doc.date | date: '%Y-%m-%d' }}">{{ doc.date | date: '%B %-d, %Y' }}</time></p>
+    <p class="excerpt">{% if doc.blurb %}{{ doc.blurb }}{% elsif doc.subtitle %}{{ doc.subtitle }}{% else %}{{ doc.content | strip_html | normalize_whitespace | truncatewords: 32, '…' }}{% endif %}</p>
+  </li>
+{% endfor %}
+</ol>
