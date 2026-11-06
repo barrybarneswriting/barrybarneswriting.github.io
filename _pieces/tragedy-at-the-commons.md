@@ -1,0 +1,21 @@
+---
+title: "Tragedy at the Commons"
+date: 2026-05-05
+section: essays
+---
+
+There is a green plastic fence wrapped around the perimeter of Schuylkill River Park.
+
+It looks like the green of a construction site or that of a tarp thrown over something embarrassing or criminal. It is wholly different from the green of the park it now surrounds. Behind this sagging, zip-tied mess sits what was, until the 29th of April, a commons: a piece of the earth held by no one and therefore by everyone, a place where citizens might walk, lie down, throw a frisbee, admire the passing canines, and otherwise exist without the mediation of a transaction.
+
+These commons have been enclosed. Like British pastures of old, the Park has been partitioned by our betters. Common land, informally but inalienably claimed by and used for the betterment and enjoyment of all, is once again transformed into a private productive space. In 17th century England, it was Parliamentary Acts that did the work. Aristocrats used legal instruments to convert shared pasture into property and peasants into proletarians. Today in Philadelphia, the perpetrators of this injustice are somewhat less resplendent. Dressed in a clever name and the worn out, millennial aesthetics of yesteryear, Parks on Tap hides their identical logic behind a more cheerful mechanism.
+
+Consider what now dominates the landscape where our commons once stood. The infrastructure of commerce – gray trailers incessantly whining and whirring as their generators struggle to keep up with the demand for Smokin’ Shroom BBQ Sandwiches and Loaded Mexican Hot Dogs, the aforementioned noxiously green perimeter (for what is a market without a boundary? What is an enclosure without some method of establishing those within and those without?), stuffed full with benches and trash cans and portapotties. Finally, a gate, manned by, I assume, a disinterested twenty-something tasked with checking IDs and ensuring no person under the age of twenty one enters the park without parental oversight.
+
+As to not sound so alarmist, I find it important to recognize that Parks on Tap has not cordoned off the entirety of the Park. Visitors are still permitted to access the dog park, the surrounding sidewalks, the basketball court. Nobody has been converted to landless laborers (not by Parks on Tap, anyway). But the logic of enclosure does not require total dispossession. A fence, really, is all it requires: the delineation of the inside and the outside.
+
+What was the park’s value absent Parks on Tap? It was incalculable. If not incalculable, it was, at the very least, more opaque. The Park generated use value. What is the value of a picnic, a game of catch, or a book enjoyed beneath the shade of a tree? It is very hard to total these things. Parks on Tap flips this model on its head. By the time they are through, Parks on Tap will understand the precise earning potential in a square foot of lawn. Our commons have become a measurable asset, made legible in the language of capital.
+
+A portion of proceeds from Parks on Tap benefits the parks they set up in. This is obviously preferable to no flow of money returning to the parks, but it should not be enough to buy our forgiveness. This claim, located on their website’s FAQ page, begs a few questions. What portion of proceeds flows to the parks? Whatever the answer is, nobody from the Parks on Tap team has deemed it impressive enough to publicize. Perhaps we should not question it. Did the Lord of the Manor not provide some modicum of protection to his subjects? Did the enclosure of those British pastures not protect the land from pillagers and miscreants? Capital, or whatever one might call it, reinvests into the commons, but this does not miraculously turn their enclosure into pure-hearted stewardship.
+
+Like so much else in our gray age of modernity, the commons have been transmuted into a curated experience. The fence will be gone soon, and Parks on Tap will go victimize some other green corner of Philadelphia. Their citizens, likewise, will be transformed into customers. Try and make a point this summer to go lie down, unburdened by expectations, in your local park. Drink a poorly concealed White Claw or two. Let the commons belong to you, to everybody else, and to nobody at all.

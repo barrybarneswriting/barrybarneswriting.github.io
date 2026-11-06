@@ -1,0 +1,24 @@
+---
+title: "Oh, death."
+date: 2026-08-30
+section: essays
+subtitle: "I am the first person to ever write about this."
+---
+
+I’m sitting in my childhood home watching a funeral service via Facebook Live. The deceased was a Christian, and the funeral is being held in one of those modern churches with LEDs and electric guitars. Rose, the woman who died, was clearly loved by many: her husband, her kids, the scores of people in attendance. The family is taking it as well as could be expected, and that seems to be a direct function of their Christian faith. The songs are all contemporary Christian tunes sung very beautifully by her kids. The eulogies all start and end with descriptions of her love for Jesus and her gift for leading people to Christ. She was an electrical engineer for a very impressive company that will remain nameless for the sake of anonymity. The speakers stress that the most important thing to her was bringing more people to the kingdom of Heaven.
+
+I’m having complicated feelings about this whole thing because, for better or worse, Christianity is not true. Call it a delusion or a farce or a fiction, but Christianity, the belief in the God of the Bible, Jesus’ death and resurrection, the path towards heaven and out of hell being the acceptance of Jesus into one’s heart, is not true. I say this without malice; I say it with concern and confusion because, as far as I can tell, the pursuit of leading people to the kingdom of Heaven is vacuous at best. The dedication of one’s life to something greater than themselves is noble in theory, but what does it mean if that “something greater” is a farce?
+
+At the funeral, a certain speaker offered a relevant metaphor. He said that you don’t really believe something unless you act as though it is true. I can purport to believe that this chair, for instance, will hold my weight, but if I believe that, truly believe that, I wouldn’t hesitate to sit on it.
+
+Oh, death. It’s been said many times by many people that life holds inherent meaning precisely because it will one day end. If you pass on to eternal life when you die, reunited with your lost friends and family, free to pursue your passions and frolic endlessly on streets paved with gold, would that make life meaningless? Absolutely not, comes the answer from any Christian worth their salt. That paradise is what gives life meaning, because you have been given a divine task not only to live a life worthy of entrance to paradise, but of sharing the good news with others and bringing those who otherwise would have gone to Hell into Heaven. That is the purpose of this ephemeral life to Christians. Of course it is! It is important to understand this because the rest suddenly seems very logical. Logical as in: If you believe in Heaven, if you believe in Hell, and if you believe in Jesus as the ticket towards the former and away from the latter, you should dedicate your life to winning souls for the Kingdom.
+
+But, if we acknowledge that “winning souls for the Kingdom” has never sent anyone to Heaven or saved them from Hell, what are we to make of a life spent in pursuit of and remembered primarily for that end? I don’t really know. One could conceive of the comfort the deceased’s family found in Christianity as a subversion of the very laws of physics. This comfort, they say, comes from God himself. If there is no Jesus living in their hearts and giving them strength, it seems that these Christians have created something from nothing. An impossibility.
+
+An impossibility it is, because it didn’t come from nothing, it just didn’t come from God. It was people–themselves, their family, their relationships, their rituals–that generated such resolve within them. It’s hard for me to watch this family mourn their matriarch so beautifully and conclude that Christianity is a worthless lie.
+
+It’s hard for me, and yet, here I am. I keep getting stuck on this idea that a woman spent her life dedicated to a falsehood.
+
+Rose’s life was bigger than just “winning souls for the kingdom”. She was a key part of a tight-knit family. She improved the lives of a lot of people here on Earth. The comfort in that room came from her and the people she shared her life with.
+
+Our delusions sustain us. Everyone is deluded in some way or another, and I don’t think much would ever get done if they weren’t. Not all delusions are created equal, of course. I have a strong preference for the person who is deluded that, by the power of their own resolve, they might materially improve the lives of the least among us to the delusion that the most important thing one can do with their time on Earth is convince people to ask Jesus into their hearts. I suppose that all I can do is try and be strategic about my own delusions and hope that I can be remembered well for them.
