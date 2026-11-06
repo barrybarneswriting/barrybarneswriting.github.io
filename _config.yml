@@ -1,0 +1,40 @@
+# ------------------------------------------------------------
+#  SITE SETTINGS — safe to edit on github.com
+#  Change the text between the quotation marks, then commit.
+# ------------------------------------------------------------
+
+title: "Barry Barnes"
+
+# The one-line description under your name on the home page.
+description: "Stories, satire, and essays on the absurd and the actual."
+
+# Your Substack address (shown in the header and footer).
+substack_url: "https://substack.com/@itsbarrybarnes"
+
+# How many recent pieces the home page shows.
+home_count: 6
+
+# ------------------------------------------------------------
+#  TECHNICAL SETTINGS — you shouldn't need to touch these
+# ------------------------------------------------------------
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+collections:
+  pieces:
+    output: true
+    permalink: /:collection/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: pieces
+    values:
+      layout: piece
+
+exclude:
+  - HOW-TO-ADD-A-PIECE.md
+  - README.md

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<section class="hero wrap">
+  <h1 class="hero-name">{{ site.title }}</h1>
+  <p class="hero-line">{{ site.description }}</p>
+  <p class="hero-cta"><a class="button" href="{{ site.substack_url }}">Read on Substack</a></p>
+</section>
+
+<section class="wrap recent">
+  <h2 class="section-label">Recent work</h2>
+  {% include piece-list.html limit=site.home_count show_section=true %}
+  <p class="more"><a href="{{ '/fiction/' | relative_url }}">All fiction →</a> &nbsp; <a href="{{ '/essays/' | relative_url }}">All essays →</a></p>
+</section>
