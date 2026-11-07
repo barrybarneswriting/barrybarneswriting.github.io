@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-> **PLACEHOLDER — Barry, write your About text here.**
+> **I'm Barry, and this is my website.**
 >
-> To change this page: on github.com, open the file `about.md`, click the pencil icon, delete this whole box (every line starting with `>`), write your own words below the second `---` line, and click **Commit changes**.
+> One day, I'll fill this section with a biography or a poem or a dedication but, for now, this is all it gets.
